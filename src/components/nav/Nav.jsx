@@ -10,7 +10,7 @@ const Nav = () => {
     <Wrapper>
       <nav>
         <a
-          href="#"
+          href="/#"
           className={activeNav === "#" ? "active" : ""}
           onClick={() => setActiveNav("#")}
         >
