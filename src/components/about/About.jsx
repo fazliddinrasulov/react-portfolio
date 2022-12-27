@@ -37,7 +37,7 @@ const About = () => {
             <p>
               Front-End and Mobile (React Native) developer with proven
               experience at Indevs in helping company to create and maintain a
-              better code base for reusability. I have experience over 2.5 years
+              better code base for reusability. I have experience about 3 years
               in building projects from concept to lunch at Indevs.
             </p>
             <a href="#contact" className="btn btn-primary">
