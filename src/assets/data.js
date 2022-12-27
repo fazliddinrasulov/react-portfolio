@@ -27,9 +27,9 @@ export const datas = [
   {
     id: 3,
     image: IMG4,
-    title: "This game made in pure JS",
-    github: "https://github.com/rasulovfazliddin/pig-game",
-    demo: "https://rasulov-pig-game.netlify.app/",
+    title: "This layout is aimed for animations",
+    github: "https://github.com/rasulovfazliddin/animated-template",
+    demo: "https://rasulov-animated-templte.netlify.app/",
   },
   {
     id: 4,
