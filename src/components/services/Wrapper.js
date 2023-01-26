@@ -5,7 +5,7 @@ const Wrapper = styled.aside`
     height: auto;
     margin-top: 2rem;
     @media (max-width: 1024px) {
-      margin-top: 36rem;
+      margin-top: 14rem;
     }
     @media (max-width: 600px) {
       margin-top: 6rem;
