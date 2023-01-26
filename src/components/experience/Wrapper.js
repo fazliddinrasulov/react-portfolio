@@ -6,17 +6,14 @@ const Wrapper = styled.aside`
     @media (max-width: 1024px) {
       margin-top: 25rem;
     }
+    @media (max-width: 600px) {
+      margin-top: 35rem;
+    }
   }
   .experience__container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2rem;
-    @media (max-width: 1024px) {
-      grid-template-columns: 1fr;
-    }
-    @media (max-width: 600px) {
-      gap: 1rem;
-    }
+    grid-template-columns: 1fr;
+    max-width: 70rem;
   }
   .experience__container > div {
     background: var(--color-bg-variant);
@@ -47,10 +44,13 @@ const Wrapper = styled.aside`
   }
   .experience__content {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     row-gap: 2rem;
+    column-gap: 8rem;
     @media (max-width: 1024px) {
       padding: 1rem;
+      grid-template-columns: 1fr 1fr;
+      column-gap: 0;
     }
   }
 

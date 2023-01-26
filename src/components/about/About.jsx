@@ -37,7 +37,12 @@ const About = () => {
             <p>
               Front-End and Mobile (React Native) developer with proven
               experience at Indevs in helping company to create and maintain a
-              better code base for reusability. I have experience about 3 years
+              better code base for reusability, integrating with backend or
+              serverless services such as: AWS, Firebase. I was responsible
+              CI/CD implementation, unit testing (Jest and React Testing),
+              problem solving, fixing bugs and making important decisions,
+              refactoring legacy codes, adding new functionalities. Mentoring
+              for junior developers in company. I have experience over 3 years
               in building projects from concept to lunch at Indevs.
             </p>
             <a href="#contact" className="btn btn-primary">

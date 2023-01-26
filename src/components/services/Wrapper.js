@@ -7,6 +7,9 @@ const Wrapper = styled.aside`
     @media (max-width: 1024px) {
       margin-top: 36rem;
     }
+    @media (max-width: 600px) {
+      margin-top: 6rem;
+    }
   }
   .services__container {
     display: grid;

@@ -6,64 +6,92 @@ const Services = () => {
     <Wrapper>
       <section id="services">
         <h5>What I Offer</h5>
-        <h2>services</h2>
+        <h2>responsibilities</h2>
 
         <div className="container services__container">
           <article className="service">
             <div className="service__head">
-              <h3>Front End Development</h3>
+              <h3>Udevs (2+ years)</h3>
             </div>
             <ul className="service__list">
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>HTML5, Css, scss, JavaScript </p>
+                <p>Creating and Maintaining batter codebase </p>
               </li>
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Tailwind, MaterialUI, RestAPI, axios, GraphQL</p>
+                <p>
+                  Integration with backend and serverless services (AWS
+                  Firebase)
+                </p>
               </li>
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Object-Oriented Programming (OOP)</p>
+                <p>
+                  Continious Integration and Continious Deployment (CI/CD
+                  implementations )
+                </p>
               </li>
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>TypeScript, React, Next.js, React Testing, Jest</p>
+                <p>Unit testing (React testing and Jest)</p>
               </li>
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Redux, Redux-Toolkit, Git</p>
+                <p>
+                  Problem solving, Fixing bugs and Making important decisions
+                </p>
               </li>
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>CI/CD implementation, problem solving</p>
+                <p>Refactoring legacy codes and adding new functionality</p>
+              </li>
+              <li>
+                <BiCheck className="service__list-icon" />
+                <p>Mentoring for junior developers</p>
               </li>
             </ul>
           </article>
           <article className="service">
             <div className="service__head">
-              <h3>Mobile React Native Development</h3>
+              <h3>Indev (1+ year)</h3>
             </div>
             <ul className="service__list">
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>HTML5, Css, scss, JavaScript </p>
+                <p>Creating and Maintaining batter codebase </p>
               </li>
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>React Native, Redux, TypeScript</p>
+                <p>
+                  Integration with backend and serverless services (AWS
+                  Firebase)
+                </p>
               </li>
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>RestAPI, axios, GraphQL, Animated API, styled components </p>
+                <p>
+                  Continious Integration and Continious Deployment (CI/CD
+                  implementations )
+                </p>
               </li>
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>better code base for reusability</p>
+                <p>Unit testing (React testing and Jest)</p>
               </li>
               <li>
                 <BiCheck className="service__list-icon" />
-                <p>Debugging</p>
+                <p>
+                  Problem solving, Fixing bugs and Making important decisions
+                </p>
+              </li>
+              <li>
+                <BiCheck className="service__list-icon" />
+                <p>Refactoring legacy codes and adding new functionality</p>
+              </li>
+              <li>
+                <BiCheck className="service__list-icon" />
+                <p>Mentoring for junior developers</p>
               </li>
             </ul>
           </article>
