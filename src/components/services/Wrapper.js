@@ -12,8 +12,9 @@ const Wrapper = styled.aside`
     }
   }
   .services__container {
+    max-width: 1000px;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 3rem;
     @media (max-width: 1024px) {
       grid-template-columns: 1fr;
