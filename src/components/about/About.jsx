@@ -41,7 +41,7 @@ const About = () => {
               Firebase. I was responsible CI/CD implementation, unit testing (Jest and
               React Testing), problem solving, fixing bugs and making important decisions,
               refactoring legacy codes, adding new functionalities. Mentoring for junior
-              developers in company. I have experience over 2 years in building projects
+              developers in company. I have experience over a year in building projects
               from concept to lunch at Indevs.
             </p>
             <a href="#contact" className="btn btn-primary">
